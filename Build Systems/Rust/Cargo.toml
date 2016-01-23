@@ -1,0 +1,7 @@
+[package]
+name = "BuildSystemExample"
+version = "0.1.0"
+authors = ["Patrick Seidel <pseidel17@jcu.edu>"]
+
+[dependencies]
+rand = "0.3.11"
